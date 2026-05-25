@@ -5,6 +5,8 @@
 
 #pragma once
 
+#include <system_error>
+
 #include <folly/Optional.h>
 #include <folly/Portability.h>
 #include <folly/Utility.h>
